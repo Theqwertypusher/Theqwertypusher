@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason Vicotr</h1>
+<h1 align="center">Hi 👋, I'm Jason Victor</h1>
 <h3 align="center">A passionate developer who builds stuff. Helpful stuff. Creative stuff. All sorts of stuff. Stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theqwertypusher&label=Profile%20views&color=0e75b6&style=flat" alt="theqwertypusher" /> </p>
