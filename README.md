@@ -5,8 +5,8 @@
 Simply another human who became enamored at the peculiarity and ascendancy of technology as well as...
 
 - An inventive front-end software engineer 
-- Open-source enthusiasts and contributor
-- Former NomadAlaCarte and Food Scientist
+- Open-source enthusiast and contributor
+- Former NomadAlaCarte and food scientist
 - Coffee connoisseur
 
 <b>Recently revamped </b> the developer experience in [Reactime](https://github.com/open-source-labs/reactime) (a  time-travel React State Debugging Tool).
